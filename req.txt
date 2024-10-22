@@ -1,0 +1,9 @@
+beautifulsoup4
+hyperSel
+matplotlib 
+pandas 
+reportlab
+secure-smtplib
+email-validator
+numpy
+pybettor
